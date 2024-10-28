@@ -7,7 +7,7 @@ title: Diagrama de Arquitectura
 
 ![asdfdf](img.jpg)
 
-##Obejtivo de la implementación
+## Obejtivo de la implementación
 El objetivo de esta implementación es desarrollar un sistema de reconocimiento de lenguaje de señas utilizando el robot NAO. El sistema será capaz de interpretar gestos específicos de lenguaje de señas a través del procesamiento de imágenes capturadas por los sensores del robot. A través del uso de un modelo de IA, el robot podrá ejecutar acciones específicas relacionadas con los gestos reconocidos. Este proyecto busca facilitar la comunicación entre personas con discapacidad auditiva y el entorno utilizando la robótica.
 
 ### 1. Capa de Entrada: Sensor de Cámara del Robot NAO
