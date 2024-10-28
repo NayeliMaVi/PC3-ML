@@ -1,4 +1,11 @@
----
+
+## Integrantes:
+Fabiana Nayeli Malla Villanueva 
+Lennin Jhair Vargas Soto 
+Jorge Omar Tarapa Peña 
+Milagros Gabriela Diaz Aguirre
+
+--
 title: Diagrama de Arquitectura
 
 ---
