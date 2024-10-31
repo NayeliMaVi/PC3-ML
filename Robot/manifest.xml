@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package installOnlyAtStartup="false" version="0.0.0" uuid="pruea-187f10">
+<package version="0.0.0" installOnlyAtStartup="false" uuid="pruea-187f10">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -15,7 +15,7 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <dialogContent typeVersion="1.0" topicName="ExampleDialog">
+  <dialogContent topicName="ExampleDialog" typeVersion="1.0">
    <topic path="behavior_1/ExampleDialog/ExampleDialog_enu.top" language="en_US"/>
   </dialogContent>
  </contents>

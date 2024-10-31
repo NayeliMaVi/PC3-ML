@@ -24,7 +24,7 @@ try:
     client_socket.connect(('localhost', 12348))  # Conectarse al servidor en el puerto 12346
 
     # Captura de video para reconocimiento en tiempo real
-    cap = cv2.VideoCapture(1)  # Cambiar a 0 para usar la cámara predeterminada
+    cap = cv2.VideoCapture(0)  # Cambiar a 0 para usar la cámara predeterminada
 
     print("Presiona 'q' para salir del reconocimiento en tiempo real.")
     while cap.isOpened():
